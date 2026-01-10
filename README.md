@@ -1,4 +1,13 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
+# Readme
+
+## Sources:
+
+https://github.com/iamshaunjp/gatsby-tutorial
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB
+
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
